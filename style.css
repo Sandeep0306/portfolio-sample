@@ -5,14 +5,14 @@ body {
 @media screen and (max-width: 600px) {
 
   #my-image{
-    height: 12rem !important;
-    width: 12rem !important;
+    height: 10rem !important;
+    width: 10rem !important;
     margin: auto;
     margin-top: -15vh;
   }
   #my-image img{
-    height: 80% !important;
-    width: 80% !important;
+    height: 100% !important;
+    width: 100% !important;
       border-radius: 50%;
     border: 3px solid white;
     box-shadow: 1px 1px 10px 2px lightgrey;
@@ -57,7 +57,7 @@ left: 4%;
 }
 .horizontal-list li{
   display:inline-block;
-  margin: 0px 10px 10px 10px!important;
+  margin: 0px 10px 20px 10px!important;
 }
 .horizontal-list{
   margin-bottom: 10px ;
@@ -65,12 +65,12 @@ left: 4%;
 .about-para p{
   font-size: 1.2rem !important;
   margin: 20px  !important;
-  padding: 20px 30px 20px 30px !important;
+  padding: 20px 20px 20px 20px !important;
   text-align: none  !important;
 }
 #my-name {
-  font-size: 2rem !important;
-  font-weight: 600 !important;
+  font-size: 1.8rem !important;
+  font-weight: 500 !important;
 }
 #tag {
   font-size: 1.2rem;
